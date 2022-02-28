@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Novedades"
       section: services
-    - title: "Portfolio"
+    - title: "Viaje"
       section: portfolio
-    - title: "About"
+    - title: "Descubre Bangalore"
       section: about
-    - title: "Timeline"
+    - title: "Quienes somos"
       section: timeline
-    - title: "Team"
+    - title: "Consejos"
       section: team
-    - title: "Contact"
+    - title: "Descubre Granada"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - #title: "Theme Source"
+      #url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:

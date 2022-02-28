@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Marina &#9829; Nithin
-    text: "11-12 December 2022"
-    button: Wedding plan
+    #title: Marina &#9829; Nithin
+    #text: "11-12 December 2022"
+    button: "&#8595"
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Novedades"
     text: "Lorem ipsum"
     section: services
     list:
