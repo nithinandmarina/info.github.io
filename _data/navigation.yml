@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Novedades"
+    - title: "services"
       section: services
-    - title: "Viaje"
+    - title: "portfolio"
       section: portfolio
-    - title: "Descubre Bangalore"
+    - title: "about"
       section: about
-    - title: "Quienes somos"
+    - title: "timeline"
       section: timeline
-    - title: "Consejos"
+    - title: "team"
       section: team
-    - title: "Descubre Granada"
+    - title: "contact"
       section: contact
     - #title: "Theme Source"
       #url: https://github.com/raviriley/agency-jekyll-theme/
@@ -50,8 +50,8 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Fuente de la plantilla"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

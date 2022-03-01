@@ -2,11 +2,10 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: 100%;
+  background-size: cover;
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
@@ -26,24 +25,71 @@ header.masthead {
     }
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
   header.masthead {
+    background-image: url("#{$laptop-image}");
     .intro-text {
-      padding-top: 850px;
-      padding-bottom: 220px;
+      padding-top: 40%;
+      padding-bottom: 35%;
       .intro-lead-in {
-        font-size: 75px;
+        font-size: 40px;
         font-style: italic;
-        line-height: 75px;
+        line-height: 40px;
         margin-bottom: 25px;
         @include serif-font;
       }
       .intro-heading {
-        font-size: 40px;
+        font-size: 75px;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 75px;
         margin-bottom: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}
+@media (min-width: 426px ) and (max-width:999px){
+  header.masthead {
+    background-image: url("#{$tablet-image}");
+    .intro-text {
+      padding-top: 50%;
+      padding-bottom: 30%;
+      .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
         @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}
+@media (max-width: 425px) {
+  header.masthead {
+    background-image: url("#{$mobile-image}");
+    .intro-text {
+      padding-top: 300px;
+      padding-bottom: 200px;
+      .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+        @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
       }
     }
   }

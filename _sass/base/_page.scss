@@ -69,3 +69,11 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+.imgrotate {
+  transition: transform .8s ease-in-out;
+}
+
+.imgrotate:hover {
+  transform: rotate(360deg);
+}

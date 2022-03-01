@@ -150,8 +150,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    title: 
+    text: 
     button: Ver más
     buttonlink: "#servicios"
 

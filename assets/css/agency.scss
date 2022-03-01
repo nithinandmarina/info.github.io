@@ -13,6 +13,10 @@ $black: {{ site.data.style.black | default: "#000" }} !default;
 // Custom Images
 $header-image: "{{ site.data.style.header-image }}";
 $contact-image: "{{ site.data.style.contact-image }}";
+$laptop-image: "{{ site.data.style.laptop-image }}";
+$tablet-image: "{{ site.data.style.tablet-image }}";
+$mobile-image: "{{ site.data.style.mobile-image }}";
+
 
 // Global CSS
 @import "base/page.scss";
