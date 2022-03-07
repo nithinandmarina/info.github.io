@@ -38,17 +38,17 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
+    - title: "Novedades"
       section: servicios
-    - title: "Portafolio"
+    - title: "Viaje"
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: "Descubre India"
       section: nosotros
-    - title: "Cronología"
+    - title: "Descubre España"
       section: cronologia
-    - title: "Equipo"
+    - title: "Quiénes somos"
       section: equipo
-    - title: "Contáctenos"
+    - title: "Contacto"
       section: contacto
     # - title: "Fuente de la plantilla"
     #   url: https://github.com/raviriley/agency-jekyll-theme/

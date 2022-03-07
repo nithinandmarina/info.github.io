@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Novedades"
+    title: "Services"
     text: "Lorem ipsum"
     section: services
     list:
@@ -156,28 +156,37 @@ es: &DEFAULT_ES
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
+    title: "Novedades"
+    text: "Aquí encontrarás la información relevante más reciente."
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Grupo de WhatsApp"
+        desc: "La información será comunicada mediante el grupo de WhatsApp"
+        icon: fab fa-markdown
+      - title: "Billetes"
+        desc: "Completo: del 1 al 19 de diciembre <br> Etapa pre-boda: 1 al 13 de diciembre<br>Etapa post-boda: 10 al 19 de diciembre<br> Desde España: Madrid->Bangalore <br> Desde Alemania: Frankfurt->Bangalore "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
+      - title: "Seguro de viaje/médico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Visa"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
+      - title: "Pasaporte"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
+      - title: "Vacunas"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
+    title: "Viaje"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Cronología"
+    title: "Descubre India"
     text: "Lorem ipsum timeline"
     section: cronologia
     # left is the default
@@ -208,7 +217,7 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
+    title: "Descubre España"
     text: "nuestra historia"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: nosotros
@@ -232,7 +241,7 @@ es: &DEFAULT_ES
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
+    title: "Quiénes somos"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
@@ -269,7 +278,7 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
+    title: "Contacto"
     text: "Lorem ipsum or call 123456789"
     section: contacto
     name: "Nombre*"
