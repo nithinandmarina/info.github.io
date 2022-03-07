@@ -161,32 +161,32 @@ es: &DEFAULT_ES
     section: servicios
     list:
       - title: "Grupo de WhatsApp"
-        desc: "La información será comunicada mediante el grupo de WhatsApp"
+        desc: "Las actualizaciones de la página web se anunciarán en el grupo de WhatsApp"
         icon: fab fa-whatsapp
       - title: "Billetes"
-        desc: "Completo: del 1 al 19 de diciembre <br> Etapa pre-boda: 1 al 13 de diciembre<br>Etapa post-boda: 10 al 19 de diciembre<br> Desde España: Madrid->Bangalore <br> Desde Alemania: Frankfurt->Bangalore "
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "No te retrases en comprarlos ya que los precios van subiendo"
+        icon: fas fa-plane #find more at https://fontawesome.com/icons
       - title: "Seguro de viaje/médico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "Lo puedes obtener a la vez que sacas los billetes o por separado"
+        icon: fas fa-shield-alt
       - title: "Visa"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+        desc: "Es necesario un visado para entrar a la India. ¡Tutorial en proceso!"
+        icon: fas fa-file-contract
       - title: "Pasaporte"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+        desc: "Revisa la caducidad de tu pasaporte y renuévalo también si caduca justo después del viaje"
+        icon: fas fa-passport
       - title: "Vacunas"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+        desc: "Pregunta a tú médico de cabecera. Actualizaremos las recomendadas"
+        icon: fas fa-syringe
 
   portfolio:
     title: "Viaje"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Información detallada sobre el viaje"
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Descubre India"
+    title: "Descubre España"
     text: "Lorem ipsum timeline"
     section: cronologia
     # left is the default
@@ -217,7 +217,7 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Descubre España"
+    title: "Descubre India"
     text: "nuestra historia"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: nosotros
