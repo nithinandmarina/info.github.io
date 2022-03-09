@@ -44,17 +44,17 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Mandya (India)"
+        year: "22.12.1992"
+        desc: "Nace Nithin"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Granada (España)"
+        year: "27.07.1995"
+        desc: "Nace Marina"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "Bangalore (India)"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
@@ -192,25 +192,40 @@ es: &DEFAULT_ES
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Mandya (India)"
+        year: "22.12.1992"
+        desc: "Nace Nithin, tímido e inquieto, pero sobre todo curioso"
+        image: assets/img/timeline/nithin_kid.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Granada (España)"
+        year: "27.07.1995"
+        desc: "Nace Marina, a veces demasiado creativa haciendo grafitis en las paredes de su casa "
+        image: assets/img/timeline/marina_kid.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
+      - title: "Bangalore (India)"
+        year: "1992-2016"
+        desc: "La familia de Nithin nunca supo que su hijo acabaría siendo un apasionado de las tecnologías"
+        image: assets/img/timeline/nithin_family2.jpg
+        alt:
+      - title: "Granada (España) y Duisburg (Alemania)"
+        year: "1995-2017"
+        desc: "Y la famlia de Marina nunca se imaginarían que a su hija le gustaría trabajar con los coches"
+        image: assets/img/timeline/marina_family2.jpg
+        alt:
+      - title: "Allmandring I (Stuttgart, Alemania)"
+        year: "10.2017-2018"
+        desc: "Todo comenzó con la clave del WiFi, y una amistad de vecinos puerta con puerta e infinitas charlas"
+        image: assets/img/timeline/hackathon.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
+      - title: "Allmandring I (Stuttgart, Alemania)"
+        year: "11.2018-2019"
+        desc: "La cual continuó con cenas, días de estudio del máster y nuevos comienzos"
+        image: assets/img/timeline/china.jpg
+        alt: image alt text
+      - title: "Ludwigsburg (Alemania)"
+        year: "2019-actualidad"
+        desc: "Para continuar con rutas en bicicleta, tardes de pingpong, baile o bádminton, y que abre un nuevo capítulo con una boda en Alemania e India"
+        image: assets/img/timeline/ludwigsburg.jpg
         alt:
         # you can enforce the alignment
         align: right
@@ -242,21 +257,20 @@ es: &DEFAULT_ES
 
   team:
     title: "Quiénes somos"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Nuestra historia
     section: equipo
     people:
       - name: "Marina Terron Camero"
         role: "La Novia"
         image: assets/img/team/marina_author.jpg
         social:
-          - url: https://instagram.com
+          - url: https://www.instagram.com/marinaterron4/
             icon: "fab fa-instagram"
       - name: "Nithin Kumara N T"
         role: "El Novio"
         image: assets/img/team/nithin_author.jpg
         social:
-          - url: https://instagram.com
+          - url: https://www.instagram.com/nithin__nt/
             icon: "fab fa-instagram"
 
   contact:
@@ -277,11 +291,9 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://facebook.com
+      - url: https://open.spotify.com/playlist/1tum2xY87SGyQWEFxjeJKJ?si=CW8iDIAPSwW-vTaTmv6iZA&utm_source=native-share-menu
         icon: "fab fa-spotify"
-      - url: https://facebook.com
-        icon: "fa fa-qrcode"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/nithinandmarina/
         icon: "fab fa-instagram"
 es-ES:
   <<: *DEFAULT_ES
