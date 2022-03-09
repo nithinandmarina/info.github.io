@@ -182,7 +182,7 @@ es: &DEFAULT_ES
   portfolio:
     title: "Viaje"
     text: "Información detallada sobre el viaje"
-    section: portafolio
+    section: portfolio
     closebutton: "Cerrar Proyecto"
 
   timeline:

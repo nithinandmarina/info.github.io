@@ -41,7 +41,7 @@ es: &DEFAULT_ES
     - title: "Novedades"
       section: servicios
     - title: "Viaje"
-      section: portafolio
+      section: portfolio
     - title: "Descubre India"
       section: nosotros
     - title: "Descubre España"
