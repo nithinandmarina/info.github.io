@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/travel/pasaporte.jpg
+title: Pasaporte
+subtitle: 
+image: assets/img/travel/passport_steps.png
 alt: 
 
 caption:
@@ -9,10 +9,6 @@ caption:
   subtitle: Identity
   thumbnail: assets/img/travel/pasaporte.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Renueva el pasaporte si está caducado o incluso si caduca próximamente (en un periodo de 6 meses después de la fecha del viaje) en tu comisaría más cercana.
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
 

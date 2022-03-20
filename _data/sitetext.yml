@@ -189,7 +189,7 @@ es: &DEFAULT_ES
     title: "Viaje"
     text: "Información detallada sobre el viaje"
     section: portfolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Cerrar"
 
   india:
     title: "Descubre India"
@@ -199,12 +199,6 @@ es: &DEFAULT_ES
 
   spain:
     title: "Descubre España"
-    text: "Información detallada sobre el viaje"
-    section: spain
-    closebutton: "Cerrar Proyecto"
-
-  timeline:
-    title: "test"
     text: ""
     section: cronologia
     # left is the default
@@ -242,7 +236,7 @@ es: &DEFAULT_ES
         alt: image alt text
       - title: "Ludwigsburg (Alemania)"
         year: "2019-actualidad"
-        desc: "Para continuar con rutas en bicicleta, tardes de pingpong, baile o bádminton, y que abre un nuevo capítulo con una boda en Alemania e India"
+        desc: "Para continuar con rutas en bicicleta, tardes de ping pong, bádminton o baile, y que a finales de este año abre un nuevo capítulo"
         image: assets/img/timeline/ludwigsburg.jpg
         alt:
         # you can enforce the alignment

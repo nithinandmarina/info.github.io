@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Visa
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/travel/visa.jpg
 alt: 

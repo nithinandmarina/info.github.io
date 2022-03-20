@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Seguro de viaje/médico
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Travel
+  title: Seguro de viaje/médico
   subtitle: Branding
   thumbnail: assets/img/travel/travel_insurance.jpg
 ---
