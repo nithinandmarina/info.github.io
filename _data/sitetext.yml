@@ -155,29 +155,29 @@ es: &DEFAULT_ES
     button: Ver más
     buttonlink: "#servicios"
 
-  services:
-    title: "Novedades"
-    text: "Aquí encontrarás la información relevante más reciente."
-    section: servicios
-    list:
-      - title: "Grupo de WhatsApp"
-        desc: "Las actualizaciones de la página web se anunciarán en el grupo de WhatsApp"
-        icon: fab fa-whatsapp
-      - title: "Billetes"
-        desc: "No te retrases en comprarlos ya que los precios van subiendo"
-        icon: fas fa-plane #find more at https://fontawesome.com/icons
-      - title: "Seguro de viaje/médico"
-        desc: "Lo puedes obtener a la vez que sacas los billetes o por separado"
-        icon: fas fa-shield-alt
-      - title: "Visa"
-        desc: "Es necesario un visado para entrar a la India. ¡Tutorial en proceso!"
-        icon: fas fa-file-contract
-      - title: "Pasaporte"
-        desc: "Revisa la caducidad de tu pasaporte y renuévalo también si caduca justo después del viaje"
-        icon: fas fa-passport
-      - title: "Vacunas"
-        desc: "Pregunta a tú médico de cabecera. Actualizaremos las recomendadas"
-        icon: fas fa-syringe
+  # services:
+  #   title: "Novedades"
+  #   text: "Aquí encontrarás la información relevante más reciente."
+  #   section: servicios
+  #   list:
+  #     - title: "Grupo de WhatsApp"
+  #       desc: "Las actualizaciones de la página web se anunciarán en el grupo de WhatsApp"
+  #       icon: fab fa-whatsapp
+  #     - title: "Billetes"
+  #       desc: "No te retrases en comprarlos ya que los precios van subiendo"
+  #       icon: fas fa-plane #find more at https://fontawesome.com/icons
+  #     - title: "Seguro de viaje/médico"
+  #       desc: "Lo puedes obtener a la vez que sacas los billetes o por separado"
+  #       icon: fas fa-shield-alt
+  #     - title: "Visa"
+  #       desc: "Es necesario un visado para entrar a la India. ¡Tutorial en proceso!"
+  #       icon: fas fa-file-contract
+  #     - title: "Pasaporte"
+  #       desc: "Revisa la caducidad de tu pasaporte y renuévalo también si caduca justo después del viaje"
+  #       icon: fas fa-passport
+  #     - title: "Vacunas"
+  #       desc: "Pregunta a tú médico de cabecera. Actualizaremos las recomendadas"
+  #       icon: fas fa-syringe
 
   portfolio:
     title: "Viaje"

@@ -2,10 +2,7 @@ BUNDLE := bundle
 JEKYLL := jekyll
 EXEC := exec
 
-.PHONY: all clean build serve
-
-all : 
-		serve
+.PHONY: clean build serve
 
 build: 
 		${BUNDLE} ${EXEC} ${JEKYLL} build

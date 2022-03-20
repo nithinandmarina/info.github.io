@@ -6,3 +6,17 @@
 .noClick{
   pointer-events: none;
 }
+
+.img-flight {
+  width: 100%;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height);
+  background-color: #1d1d1d;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
