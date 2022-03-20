@@ -15,8 +15,10 @@ en: &DEFAULT_EN
       section: services
     - title: "portfolio"
       section: portfolio
-    - title: "about"
-      section: about
+    - title: "Discover india"
+      section: india
+    - title: "Discover Spain"
+      section: spain
     - title: "timeline"
       section: timeline
     - title: "team"
@@ -43,9 +45,9 @@ es: &DEFAULT_ES
     - title: "Viaje"
       section: portfolio
     - title: "Descubre India"
-      section: nosotros
+      section: india
     - title: "Descubre España"
-      section: cronologia
+      section: spain
     - title: "Quiénes somos"
       section: equipo
     - title: "Contacto"

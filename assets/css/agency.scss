@@ -30,6 +30,8 @@ $mobile-image: "{{ site.data.style.mobile-image }}";
 @import "layout/masthead.scss";
 @import "layout/services.scss";
 @import "layout/portfolio.scss";
+@import "layout/india.scss";
+@import "layout/spain.scss";
 @import "layout/timeline.scss";
 @import "layout/team.scss";
 @import "layout/contact.scss";

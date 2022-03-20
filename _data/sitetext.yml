@@ -36,6 +36,18 @@ en: &DEFAULT_EN
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
+  
+  india:
+    title: "india"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: india
+    closebutton: "Close Project"
+  
+  spain:
+    title: "Descubre Spain"
+    text: "Información detallada sobre el viaje"
+    section: spain
+    closebutton: "Cerrar Proyecto"
 
   timeline:
     title: "Timeline"
@@ -67,12 +79,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
@@ -185,9 +191,21 @@ es: &DEFAULT_ES
     section: portfolio
     closebutton: "Cerrar Proyecto"
 
-  timeline:
+  india:
+    title: "Descubre India"
+    text: "Información detallada sobre el viaje"
+    section: india
+    closebutton: "Cerrar Proyecto"
+
+  spain:
     title: "Descubre España"
-    text: "Lorem ipsum timeline"
+    text: "Información detallada sobre el viaje"
+    section: spain
+    closebutton: "Cerrar Proyecto"
+
+  timeline:
+    title: "test"
+    text: ""
     section: cronologia
     # left is the default
     #start_align: "left"
@@ -230,12 +248,6 @@ es: &DEFAULT_ES
         # you can enforce the alignment
         align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
-
-  about:
-    title: "Descubre India"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
 
   clients:
     section: clientes

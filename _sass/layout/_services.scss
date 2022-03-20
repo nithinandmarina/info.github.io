@@ -11,12 +11,29 @@
   width: 100%;
   height: auto;
   aspect-ratio: attr(width) / attr(height);
-  background-color: #1d1d1d;
+  background-color: #202020;
 }
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
+}
+
+@media (max-width: 425px) {
+
+  .img-flight {
+    background-position: center center;
+    background-size: cover;
+    background-color: #202020;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%;
+  }
+
 }

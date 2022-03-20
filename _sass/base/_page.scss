@@ -49,6 +49,32 @@ h6 {
   section {
     padding: 150px 0;
   }
+
+  .custom-india-bg {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+  
+    background-image: linear-gradient(rgba(138, 106, 106, 0.774), rgba(255,255,255,0.5)), url('../../assets/img/bangalore_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
+  .custom-spain-bg {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+  
+    background-image: linear-gradient(rgba(238, 170, 170, 0.582), rgba(255,255,255,0.5)), url('../../assets/img/granada_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
 }
 
 // Highlight color customization
