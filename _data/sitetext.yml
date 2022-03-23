@@ -199,6 +199,12 @@ es: &DEFAULT_ES
 
   spain:
     title: "Descubre España"
+    text: "Información detallada sobre el viaje"
+    section: spain
+    closebutton: "Cerrar Proyecto"
+
+  timeline:
+    title: "test"
     text: ""
     section: cronologia
     # left is the default

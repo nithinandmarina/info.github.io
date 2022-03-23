@@ -31,8 +31,11 @@ analytics:
 
 collections:
   portfolio: # This is for the prtofolio section
+    output: true
   india: # This is for the India section
+    output: true
   spain: # This is for the Spain section
+    output: true
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL

@@ -10,7 +10,7 @@
     <div class="row">
 	{% for project in site.spain %}
       <div class="col-md-4 col-sm-6 spain-item">
-        <a class="spain-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="spain-link" data-toggle="modal" href="#s{{ forloop.index }}">
           <div class="spain-hover">
             <div class="spain-hover-content">
               <i class="{{ site.data.style.spain-icon | default: 'fas fa-plus fa-3x' }}"></i>
@@ -27,4 +27,3 @@
     </div>
   </div>
 </section>
-{% include modals.html %}
