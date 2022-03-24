@@ -1,19 +1,14 @@
 ---
 title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/travel/bangalore.jpg
+subtitle: 
+image: assets/img/travel/vaccine_inside.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Vacunas
-  subtitle: Illustration
+  subtitle: Consulta a tu médico
   thumbnail: assets/img/travel/vaccine.png
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Las vacunas necesarias varían según la persona. Proporcionaremos más información de los pasos a seguir en España, pero os aconsejamos que consultéis con vuestro médico, ya que algunas vacunas se tienen que renovar, y las múltiples dosis se extienden en un periodo de 6/9 meses.
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration

@@ -1,18 +1,25 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Fotografías
+subtitle: 
+image: assets/img/travel/photos_inside.jpg
 alt: 
 
 caption:
   title: Fotografías
-  subtitle: Añade tus fotos en nuestra cuenta de Instagram
+  subtitle: Instagram
   thumbnail: assets/img/travel/photos.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Etiquétanos en tus fotografías favoritas. De todas formas crearemos tras el viaje una carpeta donde podremos compartir las fotos. ¡Haz click en el icono para acceder a nuestra cuenta de Instagram!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+<ul class="list-inline social-buttons">
+              
+    <li class="list-inline-item">
+      
+      <a href="https://www.instagram.com/nithinandmarina/">
+        <i class="fab fa-instagram"></i>
+      </a>
+      
+    </li>
+    
+  </ul>
 

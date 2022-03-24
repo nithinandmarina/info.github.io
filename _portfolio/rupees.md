@@ -6,10 +6,10 @@ alt:
 
 caption:
   title: Rupees
-  subtitle: Branding
+  subtitle: 1€ = 82 rupees 
   thumbnail: assets/img/travel/rupees.jpg
 ---
-Un euro equivale a 82 rupees.
+Un euro son 82 rupees. Os proporcionaremos sugerencias de cuanto dinero se permite, métodos de cambio de moneda y de pago.
 
 
 

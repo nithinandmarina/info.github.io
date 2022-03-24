@@ -1,18 +1,15 @@
 ---
 title: Seguro de viaje/médico
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+subtitle: 
+image: assets/img/travel/coming_soon_es.png
 alt: 
 
 caption:
   title: Seguro de viaje/médico
-  subtitle: Branding
+  subtitle: ¡No lo olvides!
   thumbnail: assets/img/travel/travel_insurance.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+Puedes obtenerlos al comprar los billetes o por separado. Pondremos las opciones que hemos tomado como referencia.
+
 
