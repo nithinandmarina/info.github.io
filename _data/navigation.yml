@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "services"
-      section: services
+    # - title: "services"
+    #   section: services
     - title: "portfolio"
       section: portfolio
     - title: "Discover india"
@@ -40,8 +40,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Novedades"
-      section: servicios
+    # - title: "Novedades"
+    #   section: servicios
     - title: "Viaje"
       section: portfolio
     - title: "Descubre India"
