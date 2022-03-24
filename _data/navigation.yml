@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "team"
       section: team
-    - title: "contact"
-      section: contact
+    # - title: "contact"
+    #   section: contact
     - #title: "Theme Source"
       #url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
@@ -50,8 +50,8 @@ es: &DEFAULT_ES
       section: spain
     - title: "Quiénes somos"
       section: equipo
-    - title: "Contacto"
-      section: contacto
+    # - title: "Contacto"
+    #   section: contacto
     # - title: "Fuente de la plantilla"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:

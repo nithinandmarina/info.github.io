@@ -223,7 +223,7 @@ es: &DEFAULT_ES
       - title: "Bangalore (India)"
         year: "1992-2016"
         desc: "La familia de Nithin nunca supo que su hijo acabaría siendo un apasionado de las tecnologías"
-        image: assets/img/timeline/nithin_family2.jpg
+        image: assets/img/timeline/nithin_family2.png
         alt:
       - title: "Granada (España) y Duisburg (Alemania)"
         year: "1995-2017"
