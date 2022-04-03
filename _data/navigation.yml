@@ -19,10 +19,10 @@ en: &DEFAULT_EN
       section: india
     - title: "Discover Spain"
       section: spain
-    - title: "timeline"
-      section: timeline
-    - title: "team"
-      section: team
+    - title: "About us"
+      section: equipo
+    # - title: "team"
+    #   section: team
     # - title: "contact"
     #   section: contact
     - #title: "Theme Source"
