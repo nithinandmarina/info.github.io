@@ -1,8 +1,8 @@
 ---
-title: Project Threads
+title: Vacunas
 subtitle: 
 image: assets/img/travel/vaccine_inside.jpg
-alt: Shirts on a hanger
+alt:
 
 caption:
   title: Vacunas

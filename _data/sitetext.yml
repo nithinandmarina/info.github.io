@@ -263,7 +263,7 @@ es: &DEFAULT_ES
         alt:
         # you can enforce the alignment
         align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
+    end: "¡Sé parte <br> de Nuestra <br> Historia!"
 
   clients:
     section: clientes
