@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Travel"
+    text: "Detailed travel information"
     section: portfolio
     closebutton: "Close Project"
   
@@ -50,35 +50,50 @@ en: &DEFAULT_EN
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
+    title: "test"
+    text: ""
+    section: equipo
     # left is the default
     #start_align: "left"
     events:
       - title: "Mandya (India)"
         year: "22.12.1992"
-        desc: "Nace Nithin"
-        image: assets/img/timeline/1.jpg
+        desc: "Nithin is born, shy and restless, but above all curious."
+        image: assets/img/timeline/nithin_kid.jpg
         alt:
-      - title: "Granada (España)"
+      - title: "Granada (Spain)"
         year: "27.07.1995"
-        desc: "Nace Marina"
-        image: assets/img/timeline/2.jpg
+        desc: "Marina is born, sometimes too creative making graffiti on the walls of her house."
+        image: assets/img/timeline/marina_kid.jpg
         alt:
       - title: "Bangalore (India)"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+        year: "1992-2016"
+        desc: "Nithin's family never knew that their son would end up being a technology enthusiast."
+        image: assets/img/timeline/nithin_family2.png
+        alt:
+      - title: "Granada (Spain) and Duisburg (Germany)"
+        year: "1995-2017"
+        desc: "And Marina's family would never have imagined that their daughter would like to work with cars."
+        image: assets/img/timeline/marina_family2.jpg
+        alt:
+      - title: "Allmandring I (Stuttgart, Germany)"
+        year: "10.2017-2018"
+        desc: "It all started with the WiFi key, and a door-to-door neighbourly friendship and endless chats."
+        image: assets/img/timeline/hackathon.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Allmandring I (Stuttgart, Germany)"
+        year: "11.2018-2019"
+        desc: "This was followed by dinners, master's study days and new beginnings."
+        image: assets/img/timeline/china.jpg
+        alt: image alt text
+      - title: "Ludwigsburg (Germany)"
+        year: "2019-actualidad"
+        desc: "To continue with cycling routes, ping pong, badminton or dancing evenings, and that at the end of this year opens a new chapter."
+        image: assets/img/timeline/ludwigsburg.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be part <br> of our <br> story!"
 
   clients:
     section: clients
@@ -99,21 +114,22 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Reach us at"
-    text: "You can reach us at."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    title: "About us"
+    subtext: Our history
+    section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Marina Terron Camero"
+        role: "The Bride"
+        image: assets/img/team/marina_author.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/marinaterron4/
+            icon: "fab fa-instagram"
+      - name: "Nithin Kumara N T"
+        role: "The Groom"
+        image: assets/img/team/nithin_author.jpg
+        social:
+          - url: https://www.instagram.com/nithin__nt/
+            icon: "fab fa-instagram"
 
   contact:
     title: "Contact Us"
