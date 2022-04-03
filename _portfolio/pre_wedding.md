@@ -1,12 +1,12 @@
 ---
-title: Viaje pre-boda
+title: Pre-wedding trip
 subtitle: 
 image: assets/img/travel/coming_soon_es.png
 alt: 
 
 caption:
-  title: Viaje pre-boda
-  subtitle: En proceso
+  title: Pre-wedding trip
+  subtitle: In process
   thumbnail: assets/img/travel/coming_soon_es.png
 ---
-
+We're planning them - stay tuned for updates!

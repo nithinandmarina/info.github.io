@@ -1,14 +1,14 @@
 ---
-title: Project Threads
+title: Vaccinations
 subtitle: 
 image: assets/img/travel/vaccine_inside.jpg
-alt: Shirts on a hanger
+alt:
 
 caption:
-  title: Vacunas
-  subtitle: Consulta a tu médico
+  title: Vaccinations
+  subtitle: Consult your physician
   thumbnail: assets/img/travel/vaccine.png
 ---
 
-Las vacunas necesarias varían según la persona. Proporcionaremos más información de los pasos a seguir en España, pero os aconsejamos que consultéis con vuestro médico, ya que algunas vacunas se tienen que renovar, y las múltiples dosis se extienden en un periodo de 6/9 meses.
+The vaccinations required vary from person to person. We will provide more information on the steps to follow in Spain, but we advise you to consult with your doctor for the travel, as some vaccines have to be renewed, and multiple doses are spread over a period of 6/9 months.
 

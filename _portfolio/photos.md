@@ -1,15 +1,15 @@
 ---
-title: Fotografías
+title: Photography
 subtitle: 
 image: assets/img/travel/photos_inside.jpg
 alt: 
 
 caption:
-  title: Fotografías
+  title: Photography
   subtitle: Instagram
   thumbnail: assets/img/travel/photos.jpg
 ---
-Etiquétanos en tus fotografías favoritas. De todas formas crearemos tras el viaje una carpeta donde podremos compartir las fotos. ¡Haz click en el icono para acceder a nuestra cuenta de Instagram!
+Tag us in your favorite pictures. In any case we will create a folder after the trip where we can share the photos, click on the icon to access our Instagram account!
 
 <ul class="list-inline social-buttons">
               

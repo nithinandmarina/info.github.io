@@ -1,15 +1,15 @@
 ---
-title: Project Name
+title: Transport
 subtitle: 
 image: assets/img/travel/coming_soon_es.png
 alt: 
 
 caption:
-  title: Transporte
-  subtitle: En proceso
+  title: Transport
+  subtitle: In process
   thumbnail: assets/img/travel/transport.jpg
 ---
-Los estamos planeando. ¡Estad atentos a las actualizaciones!
+We're planning them - stay tuned for updates!
 
 
 

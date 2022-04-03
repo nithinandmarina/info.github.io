@@ -1,15 +1,15 @@
 ---
-title: Seguro de viaje/médico
+title: Travel Insurance
 subtitle: 
 image: assets/img/travel/coming_soon_es.png
 alt: 
 
 caption:
-  title: Seguro de viaje/médico
-  subtitle: ¡No lo olvides!
+  title: Travel Insurance
+  subtitle: Don't forget it!
   thumbnail: assets/img/travel/travel_insurance.jpg
 ---
 
-Puedes obtenerlos al comprar los billetes o por separado. Pondremos las opciones que hemos tomado como referencia.
+You can get them when you buy the tickets or separately. We will put the options we have taken as a reference.
 
 

@@ -6,8 +6,8 @@ alt:
 
 caption:
   title: Visa
-  subtitle: Proceso online
+  subtitle: Online process
   thumbnail: assets/img/travel/visa.jpg
 ---
 
-Añadiré los pasos a seguir de forma detallada de mi solicitud: https://www.eoimadrid.gov.in/visa-information.php
+I will add the steps to follow in detail of my application: [https://www.eoimadrid.gov.in/visa-information.php](https://www.eoimadrid.gov.in/visa-information.php)

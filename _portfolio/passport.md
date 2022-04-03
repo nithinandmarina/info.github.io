@@ -1,14 +1,14 @@
 ---
-title: Pasaporte
+title: Passport
 subtitle: 
 image: assets/img/travel/passport_steps.png
 alt: 
 
 caption:
-  title: Pasaporte
-  subtitle: Comprueba la caducidad
+  title: Passport
+  subtitle: Check expiration date
   thumbnail: assets/img/travel/pasaporte.jpg
 ---
-Renueva el pasaporte si está caducado o incluso si caduca próximamente (en un periodo de 6 meses después de la fecha del viaje) en tu comisaría más cercana.
+Renew your passport if it is expired or even if it will expire soon (within 6 months after your travel date) at your nearest police station.
 
 

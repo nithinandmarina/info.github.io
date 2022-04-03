@@ -1,15 +1,15 @@
 ---
-title: Música
+title: Music
 subtitle: 
 image: assets/img/travel/music_inside.jpg
 alt: 
 
 caption:
-  title: Música
+  title: Music
   subtitle: M&N 2022
   thumbnail: assets/img/travel/music.jpg
 ---
-Sigue la lista de música que hemos creado en Spotify y no olvides añadir tus canciones favoritas para que nos acompañen en nuestros trayectos. ¡Haz click en el icono para acceder a nuestra lista de reproducción!
+Follow the music playlist we have created on Spotify and don't forget to add your favorite songs to accompany us on our journeys, click on the icon to access our playlist!
 
 <ul class="list-inline social-buttons">
           

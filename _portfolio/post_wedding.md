@@ -1,11 +1,12 @@
 ---
-title: Viaje post-boda
+title: Post-wedding trip
 subtitle: 
 image: assets/img/travel/coming_soon_es.png
 alt: 
 
 caption:
-  title: Viaje post-boda
-  subtitle: En proceso
+  title: Post-wedding trip
+  subtitle: In process
   thumbnail: assets/img/travel/coming_soon_es.png
 ---
+We're planning them - stay tuned for updates!
