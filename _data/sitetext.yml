@@ -288,7 +288,7 @@ es: &DEFAULT_ES
     subtext: Nuestra historia
     section: equipo
     people:
-      - name: "Marina Terron Camero"
+      - name: "Marina Terrón Camero"
         role: "La Novia"
         image: assets/img/team/marina_author.jpg
         social:
