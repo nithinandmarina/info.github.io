@@ -1,19 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/travel/hotel.jpg
-alt: Keep Exploring
+title: Conoce la India
+subtitle: 
+image: assets/img/india/web.jpg
+alt: 
 
 caption:
-  title: Hotel
-  subtitle: Graphic Design
-  thumbnail: assets/img/travel/hotel.jpg
+  title: Cónoce la India
+  subtitle: Web oficial
+  thumbnail: assets/img/india/india_web.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+[Link](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
