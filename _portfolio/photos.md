@@ -1,11 +1,11 @@
 ---
-title: Fotografías
+title: Fotos
 subtitle: 
 image: assets/img/travel/photos_inside.jpg
 alt: 
 
 caption:
-  title: Fotografías
+  title: Fotos
   subtitle: Instagram
   thumbnail: assets/img/travel/photos.jpg
 ---

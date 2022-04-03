@@ -10,4 +10,4 @@ caption:
   thumbnail: assets/img/india/india_web.jpg
 ---
 
-https://www.incredibleindia.org/content/incredible-india-v2/en.html
+[Link](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
