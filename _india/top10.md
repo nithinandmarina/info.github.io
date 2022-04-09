@@ -4,7 +4,7 @@ subtitle:
 alt: 
 
 caption:
-  title: TOP10
+  title: Top 10
   subtitle: 10 curiosidades sobre India
   thumbnail: assets/img/india/top10.png
 ---

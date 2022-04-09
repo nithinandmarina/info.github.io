@@ -4,7 +4,7 @@ subtitle:
 alt: 
 
 caption:
-  title: TOP10
+  title: Top 10
   subtitle: 10 curiosidades sobre España
   thumbnail: assets/img/spain/top10.png
 ---
