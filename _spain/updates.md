@@ -10,4 +10,4 @@ caption:
   thumbnail: assets/img/spain/alhambra.jpg
 ---
 
-[Link](https://www.spain.info/en/top/best-destinations-travel-spain/)
+<a href="https://www.spain.info/en/top/best-destinations-travel-spain/" target="_blank" rel="noopener noreferrer">Link</a>

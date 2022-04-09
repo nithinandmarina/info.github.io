@@ -10,5 +10,7 @@ caption:
   thumbnail: assets/img/travel/visa.jpg
 ---
 
-Añadiré los pasos a seguir de forma detallada de mi solicitud: 
-[Link](https://www.eoimadrid.gov.in/visa-information.php)
+Añadiré los pasos a seguir de forma detallada de mi solicitud
+
+
+<a href="https://www.eoimadrid.gov.in/visa-information.php" target="_blank">https://www.eoimadrid.gov.in/visa-information.php</a>

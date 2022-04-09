@@ -15,7 +15,7 @@ Etiquétanos en tus fotografías favoritas. De todas formas crearemos tras el vi
               
     <li class="list-inline-item">
       
-      <a href="https://www.instagram.com/nithinandmarina/">
+      <a href="https://www.instagram.com/nithinandmarina/" target="_blank" rel="noopener noreferrer">
         <i class="fab fa-instagram"></i>
       </a>
       
