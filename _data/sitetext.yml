@@ -227,12 +227,12 @@ es: &DEFAULT_ES
     #start_align: "left"
     events:
       - title: "Mandya (India)"
-        year: "22.12.1992"
+        year: "22/12/1992"
         desc: "Nace Nithin, tímido e inquieto, pero sobre todo curioso"
         image: assets/img/timeline/nithin_kid.jpg
         alt:
       - title: "Granada (España)"
-        year: "27.07.1995"
+        year: "27/07/1995"
         desc: "Nace Marina, a veces demasiado creativa haciendo grafitis en las paredes de su casa "
         image: assets/img/timeline/marina_kid.jpg
         alt:
@@ -247,12 +247,12 @@ es: &DEFAULT_ES
         image: assets/img/timeline/marina_family2.jpg
         alt:
       - title: "Allmandring I (Stuttgart, Alemania)"
-        year: "10.2017-2018"
+        year: "10/2017-2018"
         desc: "Todo comenzó con la clave del WiFi, y una amistad de vecinos puerta con puerta e infinitas charlas"
         image: assets/img/timeline/hackathon.jpg
         alt: image alt text
       - title: "Allmandring I (Stuttgart, Alemania)"
-        year: "11.2018-2019"
+        year: "11/2018-2019"
         desc: "La cual continuó con cenas, días de estudio del máster y nuevos comienzos"
         image: assets/img/timeline/china.jpg
         alt: image alt text
