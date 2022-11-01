@@ -1,7 +1,7 @@
 ---
 title: Transporte
 subtitle: 
-image: assets/img/travel/coming_soon_es.png
+image: assets/img/travel/transport_inside.jpg
 alt: 
 
 caption:
@@ -9,7 +9,7 @@ caption:
   subtitle: En proceso
   thumbnail: assets/img/travel/transport.jpg
 ---
-Los estamos planeando. ¡Estad atentos a las actualizaciones!
+
 
 
 

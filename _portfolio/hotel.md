@@ -1,13 +1,12 @@
 ---
 title: Hotel
 subtitle: 
-image: assets/img/travel/coming_soon_es.png
+image: assets/img/travel/hoteles_inside.jpg
 alt: Keep Exploring
 
 caption:
   title: Hotel
-  subtitle: Reservas
+  subtitle: Información
   thumbnail: assets/img/travel/hotel.jpg
 ---
 
-Información detallada sobre los hoteles tanto en Bangalore como durante la ruta de pre-boda y post-boda respectivamente.

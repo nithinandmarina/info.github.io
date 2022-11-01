@@ -1,7 +1,7 @@
 ---
 title: Seguro de viaje/médico
 subtitle: 
-image: assets/img/travel/coming_soon_es.png
+image: assets/img/travel/insurance_inside.png
 alt: 
 
 caption:
@@ -10,6 +10,9 @@ caption:
   thumbnail: assets/img/travel/travel_insurance.jpg
 ---
 
-Puedes obtenerlos al comprar los billetes o por separado. Pondremos las opciones que hemos tomado como referencia.
+Puedes obtenerlos al comprar los billetes en Booking o por separado. 
+Por ejemplo: 
+
+<a href="https://calcular-seguro-viaje.allianz-assistance.es/B2C/TRAVEL/ES/step-1" target="_blank">https://calcular-seguro-viaje.allianz-assistance.es/B2C/TRAVEL/ES/step-1</a>
 
 

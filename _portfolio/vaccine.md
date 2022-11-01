@@ -1,7 +1,7 @@
 ---
 title: Vacunas
 subtitle: 
-image: assets/img/travel/vaccine_inside.jpg
+image: assets/img/travel/vacunas_upd.jpg
 alt:
 
 caption:

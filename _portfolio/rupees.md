@@ -1,7 +1,7 @@
 ---
 title: Rupias
 subtitle: 
-image: assets/img/travel/coming_soon_es.png
+image: assets/img/travel/transfer_wise.JPG
 alt: 
 
 caption:
@@ -9,7 +9,7 @@ caption:
   subtitle: 1€ = 82 rupias 
   thumbnail: assets/img/travel/rupees.jpg
 ---
-1€ = 82 rupias. Os proporcionaremos sugerencias de cuanto dinero se permite, métodos de cambio de moneda y de pago.
-
+Se recomienda llevar dinero en efectivo y el uso de una cuenta Wise.
+<a href="https://wise.com/" target="_blank">https://wise.com/</a>
 
 
