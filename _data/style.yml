@@ -4,8 +4,8 @@
 #black: "#000"
 
 #Image Customization
-laptop-image: "../img/laptop_header.gif"
-mobile-image : "../img/mobile_header.gif"
+laptop-image: "../img/laptop_header.jpg"
+mobile-image : "../img/phone_header.gif"
 tablet-image : "../img/tablet_header.gif"
 contact-image: "../img/contact.png"
 

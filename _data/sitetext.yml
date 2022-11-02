@@ -256,13 +256,26 @@ es: &DEFAULT_ES
         desc: "La cual continuó con cenas, días de estudio del máster y nuevos comienzos"
         image: assets/img/timeline/china.jpg
         alt: image alt text
-      - title: "Ludwigsburg (Alemania)"
-        year: "2019-actualidad"
-        desc: "Para continuar con rutas en bicicleta, tardes de ping pong, bádminton o baile, y que a finales de este año abre un nuevo capítulo"
-        image: assets/img/timeline/ludwigsburg.jpg
+      - title: "Copenhague (Dinamarca)"
+        year: "15/07/2022"
+        desc: "Registro matrimonial"
+        image: assets/img/timeline/copenhagen.png
         alt:
-        # you can enforce the alignment
-        align: right
+      - title: "Templo de Isckon (Bangalore)"
+        year: "11/12/2022"
+        desc: |
+              Boda cultural                                              
+              Muhurtham : 11:10 AM to 11:55 AM                                                    
+              [Link to Google Maps](https://goo.gl/maps/6ZMhT8L45sNjh3Ky9)
+        image: assets/img/timeline/iskcon.jpeg
+        icon: fas fa-shopping-cart
+        alt:
+      - title: "Sri Lakshmivenkateshwara <br> Kalyana Mantapa (Bangalore)"
+        year: "11/12/2022"
+        desc: "Recepción <br> Desde: 06:30 PM en adelante <br> [Link to Google Maps](https://goo.gl/maps/BnK8yp1GWmrEW6EE7)"
+        image: assets/img/timeline/reception.jpg
+        alt:
+        align: left
     end: "¡Sé parte <br> de Nuestra <br> Historia!"
 
   clients:
