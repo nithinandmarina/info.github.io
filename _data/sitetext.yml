@@ -258,13 +258,13 @@ es: &DEFAULT_ES
         alt: image alt text
       - title: "Copenhague (Dinamarca)"
         year: "15/07/2022"
-        desc: "Registro matrimonial"
+        desc: "Boda civil"
         image: assets/img/timeline/copenhagen.png
         alt:
       - title: "Templo de Isckon (Bangalore)"
         year: "11/12/2022"
         desc: |
-              Boda cultural                                              
+              Boda tradicional                                              
               Muhurtham : 11:10 AM to 11:55 AM                                                    
               [Link to Google Maps](https://goo.gl/maps/6ZMhT8L45sNjh3Ky9)
         image: assets/img/timeline/iskcon.jpeg
@@ -272,7 +272,7 @@ es: &DEFAULT_ES
         alt:
       - title: "Sri Lakshmivenkateshwara <br> Kalyana Mantapa (Bangalore)"
         year: "11/12/2022"
-        desc: "Recepción <br> Desde: 06:30 PM en adelante <br> [Link to Google Maps](https://goo.gl/maps/BnK8yp1GWmrEW6EE7)"
+        desc: "Convite <br> Desde: 06:30 PM en adelante <br> [Link to Google Maps](https://goo.gl/maps/BnK8yp1GWmrEW6EE7)"
         image: assets/img/timeline/reception.jpg
         alt:
         align: left
